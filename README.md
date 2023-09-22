@@ -122,6 +122,8 @@ These queries are responsible for inserting records into the tables after the da
 
 These SQL queries play a crucial role in the Sparkify ETL Pipeline, enabling the creation of a well-structured database schema and the insertion of data for analysis.
 
----
+## License
+
+The Jupyter Notebook is licensed under the MIT License.
 
 _Note: SQL queries are defined in the `sql_queries.py` file and are executed within the ETL pipeline to perform database operations._
